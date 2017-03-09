@@ -19,6 +19,7 @@ du jeudi au lundi, midi et soir
 #+BEGIN_EXPORT html
 <p/>
 <a href="https://fr-fr.facebook.com/Le-Desnoyez-1031858706935469/">Page Facebook™</a> 
+<p/>
 #+END_EXPORT
 
 
